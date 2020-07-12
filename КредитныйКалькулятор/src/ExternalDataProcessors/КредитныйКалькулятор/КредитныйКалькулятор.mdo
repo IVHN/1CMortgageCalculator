@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="dbe57725-b30e-4292-ad93-40c0c7c3e4c3">
+  <producedTypes>
+    <objectType typeId="99939acc-254c-4162-9746-72c8cdd3f5a8" valueTypeId="c3caa0da-754b-4ce0-88c8-48da983621a6"/>
+  </producedTypes>
+  <name>КредитныйКалькулятор</name>
+  <synonym>
+    <key>ru</key>
+    <value>Кредитный калькулятор</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="66df56f2-0594-479e-bee1-218c9f18601d"/>
+  <defaultForm>ExternalDataProcessor.КредитныйКалькулятор.Form.Форма</defaultForm>
+  <forms uuid="3b0515c5-36d6-4564-a6d5-4eb9ecab5b82">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
