@@ -2152,7 +2152,7 @@
     </use>
     <action xsi:type="form:FormCommandHandlerContainer">
       <handler>
-        <name>РасчитатьПлатежиВУменьшениеПлатежа</name>
+        <name>КомандаРасчитатьПлатежиВУменьшениеПлатежа</name>
       </handler>
     </action>
     <currentRowUse>Auto</currentRowUse>
@@ -2173,7 +2173,7 @@
     </use>
     <action xsi:type="form:FormCommandHandlerContainer">
       <handler>
-        <name>РасчитатьПлатежиВУменьшениеСрока</name>
+        <name>КомандаРасчитатьПлатежиВУменьшениеСрока</name>
       </handler>
     </action>
     <currentRowUse>Auto</currentRowUse>
@@ -2194,7 +2194,7 @@
     </use>
     <action xsi:type="form:FormCommandHandlerContainer">
       <handler>
-        <name>ЗаполнитьПараметрыПоУмолчанию</name>
+        <name>КомандаЗаполнитьПараметрыПоУмолчанию</name>
       </handler>
     </action>
     <currentRowUse>Auto</currentRowUse>
